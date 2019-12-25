@@ -1,0 +1,17 @@
+{
+    "assignmentID": 2483,
+    "problems": {
+        "cs3005_assignment_number_grid": {
+            "id": 104,
+            "step": 2,
+            "whitelist": {
+                "NumberGrid.cpp": true,
+                "NumberGrid.h": true,
+                "PPM.cpp": true,
+                "PPM.h": true,
+                "image_menu.cpp": true,
+                "image_menu.h": true
+            }
+        }
+    }
+}

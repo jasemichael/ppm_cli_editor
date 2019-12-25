@@ -1,0 +1,30 @@
+{
+    "assignmentID": 2901,
+    "problems": {
+        "cs3005_final_anti_alias": {
+            "id": 117,
+            "step": 1,
+            "whitelist": {
+                "ColorTable.cpp": true,
+                "ColorTable.h": true,
+                "ComplexFractal.cpp": true,
+                "ComplexFractal.h": true,
+                "JuliaSet.cpp": true,
+                "JuliaSet.h": true,
+                "MandelbrotSet.cpp": true,
+                "MandelbrotSet.h": true,
+                "NumberGrid.cpp": true,
+                "NumberGrid.h": true,
+                "PPM.cpp": true,
+                "PPM.h": true,
+                "ThreadedGrid.cpp": true,
+                "ThreadedGrid.h": true,
+                "ThreadedVector.h": true,
+                "TuringPattern.cpp": true,
+                "TuringPattern.h": true,
+                "image_menu.cpp": true,
+                "image_menu.h": true
+            }
+        }
+    }
+}
